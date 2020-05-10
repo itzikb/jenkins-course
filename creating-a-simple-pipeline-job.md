@@ -4,7 +4,7 @@
 
 In Jenkins click on **New Item** 
 
-![](.gitbook/assets/new_item%20%281%29.png)
+![](.gitbook/assets/new_item.png)
 
  **Choose Pipeline** and enter the job name
 
